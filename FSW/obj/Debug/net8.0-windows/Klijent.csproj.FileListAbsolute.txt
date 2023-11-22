@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\FSW\FSW\bin\Debug\net8.0-windows\Klijent.exe
+C:\Users\Luka\source\repos\FSW\FSW\bin\Debug\net8.0-windows\Klijent.deps.json
+C:\Users\Luka\source\repos\FSW\FSW\bin\Debug\net8.0-windows\Klijent.runtimeconfig.json
+C:\Users\Luka\source\repos\FSW\FSW\bin\Debug\net8.0-windows\Klijent.dll
+C:\Users\Luka\source\repos\FSW\FSW\bin\Debug\net8.0-windows\Klijent.pdb
+C:\Users\Luka\source\repos\FSW\FSW\obj\Debug\net8.0-windows\FSW.Form1.resources
+C:\Users\Luka\source\repos\FSW\FSW\obj\Debug\net8.0-windows\Klijent.csproj.GenerateResource.cache
+C:\Users\Luka\source\repos\FSW\FSW\obj\Debug\net8.0-windows\Klijent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\FSW\FSW\obj\Debug\net8.0-windows\Klijent.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\FSW\FSW\obj\Debug\net8.0-windows\Klijent.AssemblyInfo.cs
+C:\Users\Luka\source\repos\FSW\FSW\obj\Debug\net8.0-windows\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\FSW\FSW\obj\Debug\net8.0-windows\Klijent.dll
+C:\Users\Luka\source\repos\FSW\FSW\obj\Debug\net8.0-windows\refint\Klijent.dll
+C:\Users\Luka\source\repos\FSW\FSW\obj\Debug\net8.0-windows\Klijent.pdb
+C:\Users\Luka\source\repos\FSW\FSW\obj\Debug\net8.0-windows\Klijent.genruntimeconfig.cache
+C:\Users\Luka\source\repos\FSW\FSW\obj\Debug\net8.0-windows\ref\Klijent.dll

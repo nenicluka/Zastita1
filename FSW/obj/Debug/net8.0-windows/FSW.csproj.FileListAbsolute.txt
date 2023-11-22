@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\FSW\FSW\bin\Debug\net8.0-windows\FSW.exe
+C:\Users\Luka\source\repos\FSW\FSW\bin\Debug\net8.0-windows\FSW.deps.json
+C:\Users\Luka\source\repos\FSW\FSW\bin\Debug\net8.0-windows\FSW.runtimeconfig.json
+C:\Users\Luka\source\repos\FSW\FSW\bin\Debug\net8.0-windows\FSW.dll
+C:\Users\Luka\source\repos\FSW\FSW\bin\Debug\net8.0-windows\FSW.pdb
+C:\Users\Luka\source\repos\FSW\FSW\obj\Debug\net8.0-windows\FSW.Form1.resources
+C:\Users\Luka\source\repos\FSW\FSW\obj\Debug\net8.0-windows\FSW.csproj.GenerateResource.cache
+C:\Users\Luka\source\repos\FSW\FSW\obj\Debug\net8.0-windows\FSW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\FSW\FSW\obj\Debug\net8.0-windows\FSW.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\FSW\FSW\obj\Debug\net8.0-windows\FSW.AssemblyInfo.cs
+C:\Users\Luka\source\repos\FSW\FSW\obj\Debug\net8.0-windows\FSW.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\FSW\FSW\obj\Debug\net8.0-windows\FSW.dll
+C:\Users\Luka\source\repos\FSW\FSW\obj\Debug\net8.0-windows\refint\FSW.dll
+C:\Users\Luka\source\repos\FSW\FSW\obj\Debug\net8.0-windows\FSW.pdb
+C:\Users\Luka\source\repos\FSW\FSW\obj\Debug\net8.0-windows\FSW.genruntimeconfig.cache
+C:\Users\Luka\source\repos\FSW\FSW\obj\Debug\net8.0-windows\ref\FSW.dll
